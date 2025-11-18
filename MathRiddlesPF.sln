@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathRiddlesPF.MVC", "MathRiddlesPF\MathRiddlesPF.MVC.csproj", "{C70B4991-F617-46B7-97CD-40FAED3DE36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathRiddlesPF.CORE", "MathRiddlesPF.CORE\MathRiddlesPF.CORE.csproj", "{1F9E365E-CDB1-450A-9360-ECA43C557015}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathRiddles.CORE", "MathRiddles.CORE\MathRiddles.CORE.csproj", "{28917E7D-0BF8-456A-9321-0391A05A2470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C70B4991-F617-46B7-97CD-40FAED3DE36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C70B4991-F617-46B7-97CD-40FAED3DE36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C70B4991-F617-46B7-97CD-40FAED3DE36B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F9E365E-CDB1-450A-9360-ECA43C557015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F9E365E-CDB1-450A-9360-ECA43C557015}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F9E365E-CDB1-450A-9360-ECA43C557015}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F9E365E-CDB1-450A-9360-ECA43C557015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28917E7D-0BF8-456A-9321-0391A05A2470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28917E7D-0BF8-456A-9321-0391A05A2470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28917E7D-0BF8-456A-9321-0391A05A2470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28917E7D-0BF8-456A-9321-0391A05A2470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
