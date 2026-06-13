@@ -20,7 +20,7 @@ y otra muy importante desde la ingeniería de software:
     "Es como tener cajones organizados en lugar de todo revuelto en una bolsa".
 
 
-    Arquitectura del Proyecto
+Arquitectura del Proyecto
 
 El sistema está dividido en tres capas principales:
 
